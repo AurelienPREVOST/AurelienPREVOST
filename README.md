@@ -28,7 +28,7 @@ Je suis doublement certifié :
 
 Je suis ouvert à toute question, collaboration ou discussion sur le développement web et mobile.
 
-📧 [aurelienprevost77@gmail.com](mailto:votreadresseemail@example.com)
+📧 [aurelienprevost77@gmail.com](mailto:votreadresseemail@example.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/prevost-aurelien-dev/)
 
 N'hésitez pas à explorer mes projets GitHub ci-dessous, à les cloner, les forké, et à me donner vos retours. Merci de votre visite !
