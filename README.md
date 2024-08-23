@@ -18,11 +18,10 @@ Je suis doublement certifié :
 
 ## Mes Compétences
 
-- **Langages de Programmation:** JavaScript, Ruby
-- **Frameworks:** Node.js, Ruby on Rails
-- **Développement Frontend:** HTML, CSS, React
-- **Base de Données:** MongoDB, PostgreSQL, MySQL
-- **Outils de Versionnement:** Gitlab, GitHub
+- **Langages de Programmation:** JavaScript, Ruby, Vba, Python, Bash, Shell/PowerShell...
+- **Frameworks:** Node.js, Angular, React, Ruby on Rails, Flask, Django...
+- **Base de Données:** MongoDB, PostgreSQL, MySQL, SQLite...
+- **Outils de Versionnement:** Gitlab, GitHub, BitBucket...
 
 ## Contactez-moi
 
